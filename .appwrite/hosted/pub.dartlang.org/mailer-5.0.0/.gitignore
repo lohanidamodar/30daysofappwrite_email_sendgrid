@@ -1,0 +1,11 @@
+/.atom/
+/.idea/
+/.project
+/pubspec.lock
+packages
+.pub/
+.packages
+*.iml
+.dart_tool
+/test/smtpserver.json
+.DS_Store
